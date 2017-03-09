@@ -30,6 +30,8 @@
     - [JavaScript Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=XL9Ri8pO68w)
     - [30 Days to Learn HTML&CSS](https://www.youtube.com/watch?v=yTHTo28hwTQ&list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F)
     - [30 Days to Learn jQuery](https://www.youtube.com/watch?v=_ZYy4kof5Oo&list=PLuwqxbvf3olp-FNFjkdWyNvrh_DCkH_TA)
+    - [htmlreference.io](http://htmlreference.io/)
+    - [cssreference.io](http://cssreference.io/)
     - [ES6 Learning](https://github.com/ericdouglas/ES6-Learning)
 
 - 번역
@@ -108,3 +110,20 @@
 
 - [Viewport & Media Queries, The Complete Idiot's Guide](https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present?slide=id.i0)
 - [a pixel is not a pixel is not a pixel](http://www.quirksmode.org/blog/archives/2010/04/a_pixel_is_not.html)
+
+
+
+<!-- ### 컴포넌트 디자인
+
+- 버튼(Buttons)
+- 표(Tables)
+- 폼(Forms)
+  - 레이블(Label)
+  - 컨트롤(Controls)
+    - 인풋(Inputs)
+      - 라디오(Radio)
+      - 체크박스(Checkbox)
+    - 텍스트 영역(Textarea)
+    - 셀렉트 메뉴(Select Menu)
+
+     by YEBO -->
